@@ -2278,10 +2278,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-15 19:06:48 +0000",
       "minecraft:skeleton": "2024-12-14 22:33:12 +0000",
       "minecraft:spider": "2024-12-14 22:33:18 +0000",
       "minecraft:creeper": "2024-12-14 22:43:58 +0000",
       "minecraft:witch": "2024-12-14 22:47:57 +0000",
+      "minecraft:wither_skeleton": "2024-12-15 19:06:35 +0000",
       "minecraft:enderman": "2024-12-15 04:07:14 +0000",
       "minecraft:zombie": "2024-12-14 22:34:56 +0000",
       "minecraft:zombie_villager": "2024-12-14 22:33:16 +0000"
@@ -4755,6 +4757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-15 19:11:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-15 18:14:48 +0000"
@@ -4764,6 +4772,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-15 19:00:58 +0000",
+      "minecraft:basalt_deltas": "2024-12-15 19:05:31 +0000",
       "minecraft:warped_forest": "2024-12-15 19:01:31 +0000"
     },
     "done": false
@@ -4876,6 +4885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-15 19:11:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2024-12-15 18:50:02 +0000"
@@ -4894,6 +4909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-15 19:11:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-15 18:14:48 +0000"
@@ -4906,6 +4927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-15 19:11:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2024-12-15 17:56:22 +0000"
@@ -4915,6 +4942,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-15 18:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-15 19:11:01 +0000"
     },
     "done": true
   },
@@ -5068,6 +5101,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-15 19:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 17:56:14 +0000"
@@ -5089,6 +5128,18 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2024-12-15 18:43:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-15 19:06:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-15 19:04:48 +0000"
     },
     "done": true
   },
