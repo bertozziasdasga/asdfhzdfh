@@ -3666,6 +3666,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-15 17:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-15 17:06:11 +0000"
@@ -3678,9 +3690,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-15 17:28:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:52 +0000"
     },
     "done": true
   },
@@ -3702,6 +3726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-15 17:24:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-15 17:17:43 +0000"
@@ -3711,6 +3741,12 @@
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2024-12-15 17:27:07 +0000"
     },
     "done": true
   },
@@ -3726,6 +3762,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
@@ -3738,6 +3780,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2024-12-15 17:27:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
@@ -3747,6 +3807,18 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2024-12-15 17:08:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 17:28:28 +0000"
     },
     "done": true
   },

@@ -334,3 +334,18 @@
 [15Dec2024 17:21:35.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4595ms or 91 ticks behind
 [15Dec2024 17:21:58.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8475ms or 169 ticks behind
 [15Dec2024 17:22:43.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set the weather to clear]
+[15Dec2024 17:26:18.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [The Twelve Labors of Hercules]
+[15Dec2024 17:27:04.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [A Seedy Place]
+[15Dec2024 17:27:15.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was slain by Dread Knight
+[15Dec2024 17:27:15.471] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[15Dec2024 17:27:16.922] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Dec2024 17:27:16.924] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[15Dec2024 17:28:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Suit Up]
+[15Dec2024 17:31:12.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[15Dec2024 17:31:46.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[15Dec2024 17:32:01.250] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{mexucito})
+[15Dec2024 17:32:10.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[15Dec2024 17:32:34.340] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[15Dec2024 17:32:51.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2380ms or 47 ticks behind
+[15Dec2024 17:32:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Close Quarters]
+[15Dec2024 17:33:15.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9161ms or 183 ticks behind

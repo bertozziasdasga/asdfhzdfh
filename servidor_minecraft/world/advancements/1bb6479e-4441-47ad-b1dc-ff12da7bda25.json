@@ -1770,6 +1770,7 @@
       "minecraft:windswept_forest": "2024-12-15 17:01:57 +0000",
       "minecraft:jungle": "2024-12-15 00:35:56 +0000",
       "minecraft:frozen_peaks": "2024-12-14 23:27:28 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-15 17:21:46 +0000",
       "minecraft:deep_dark": "2024-12-14 22:58:40 +0000",
       "minecraft:meadow": "2024-12-14 22:31:10 +0000",
       "minecraft:savanna": "2024-12-14 23:15:09 +0000",
@@ -4519,9 +4520,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-15 17:27:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-15 17:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-15 17:27:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-15 17:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:27:00 +0000"
     },
     "done": true
   },
@@ -4531,9 +4562,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:27:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain_sticky": {
     "criteria": {
       "has_item": "2024-12-15 17:00:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2024-12-15 17:20:18 +0000"
     },
     "done": true
   },
@@ -4549,9 +4592,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2024-12-15 17:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-15 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-15 17:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-15 17:27:02 +0000"
     },
     "done": true
   },
@@ -4573,6 +4634,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-15 17:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2024-12-15 17:05:11 +0000"
@@ -4582,6 +4649,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-15 16:59:58 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-15 17:27:00 +0000"
     },
     "done": true
   },
