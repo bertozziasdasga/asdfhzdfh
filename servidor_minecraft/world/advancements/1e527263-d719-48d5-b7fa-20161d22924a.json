@@ -1761,12 +1761,14 @@
       "minecraft:sparse_jungle": "2024-12-15 17:17:04 +0000",
       "minecraft:river": "2024-12-14 22:43:42 +0000",
       "minecraft:stony_shore": "2024-12-15 17:42:31 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 18:25:26 +0000",
       "minecraft:grove": "2024-12-14 23:28:18 +0000",
       "minecraft:cold_ocean": "2024-12-15 17:46:48 +0000",
       "minecraft:forest": "2024-12-14 22:29:09 +0000",
       "minecraft:jungle": "2024-12-15 17:17:13 +0000",
       "minecraft:frozen_peaks": "2024-12-14 23:30:59 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-15 17:46:20 +0000",
+      "minecraft:deep_dark": "2024-12-15 18:26:56 +0000",
       "minecraft:meadow": "2024-12-14 22:37:22 +0000",
       "minecraft:savanna": "2024-12-14 22:38:45 +0000",
       "minecraft:plains": "2024-12-14 22:36:48 +0000"
@@ -3768,6 +3770,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-15 18:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-15 17:42:16 +0000"
@@ -3798,6 +3806,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-15 17:42:16 +0000"
@@ -3807,6 +3821,12 @@
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 18:27:21 +0000"
     },
     "done": true
   },
@@ -3858,6 +3878,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2024-12-15 18:26:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-15 17:42:16 +0000"
@@ -3897,6 +3923,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2024-12-15 17:27:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2024-12-15 18:26:09 +0000"
     },
     "done": true
   },
@@ -3948,6 +3980,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2024-12-15 18:25:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
@@ -3963,6 +4001,18 @@
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-15 18:31:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 18:27:21 +0000"
     },
     "done": true
   },
@@ -4014,6 +4064,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:28:28 +0000"
@@ -4029,6 +4085,12 @@
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-15 18:30:29 +0000"
     },
     "done": true
   },
@@ -4056,6 +4118,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2024-12-15 17:32:45 +0000"
@@ -4077,6 +4145,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-15 18:32:02 +0000"
     },
     "done": true
   },
