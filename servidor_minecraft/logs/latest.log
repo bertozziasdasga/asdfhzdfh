@@ -295,3 +295,27 @@
 [15Dec2024 16:58:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Herc was on a Roll!]
 [15Dec2024 17:00:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
 [15Dec2024 17:02:16.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[15Dec2024 17:04:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[15Dec2024 17:04:29.061] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[15Dec2024 17:04:29.338] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Dec2024 17:04:29.472] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Dec2024 17:04:29.475] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Dec2024 17:04:29.517] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Dec2024 17:04:29.519] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Dec2024 17:04:29.648] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Dec2024 17:04:29.703] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Dec2024 17:04:29.703] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Dec2024 17:04:29.833] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Dec2024 17:04:29.868] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Dec2024 17:04:29.874] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Dec2024 17:04:29.874] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Dec2024 17:04:35.966] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Dec2024 17:04:38.744] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Dec2024 17:04:38.785] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Dec2024 17:04:38.786] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Dec2024 17:04:39.413] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[15Dec2024 17:04:42.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mexucito[/127.163.243.183:48275] logged in with entity id 13132 at (359.34068640386437, 97.0, 945.3000000119209)
+[15Dec2024 17:04:42.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito joined the game
+[15Dec2024 17:04:42.848] [Server thread/INFO] [Jade/]: Syncing config to mexucito (1e527263-d719-48d5-b7fa-20161d22924a)
+[15Dec2024 17:04:54.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> sosa veni dc y tenemos una mascota
+[15Dec2024 17:08:50.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [A Flaming Sword]
