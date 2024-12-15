@@ -371,3 +371,38 @@
 [15Dec2024 17:52:25.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
 [15Dec2024 17:52:30.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Disconnected
 [15Dec2024 17:52:30.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[15Dec2024 17:54:56.849] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[15Dec2024 17:54:57.085] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[15Dec2024 17:54:57.248] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[15Dec2024 17:54:57.344] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[15Dec2024 17:54:57.346] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[15Dec2024 17:54:57.347] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[15Dec2024 17:54:57.348] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[15Dec2024 17:54:57.425] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[15Dec2024 17:54:57.427] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[15Dec2024 17:54:57.433] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[15Dec2024 17:54:57.434] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[15Dec2024 17:54:57.435] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[15Dec2024 17:54:57.436] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[15Dec2024 17:55:00.173] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[15Dec2024 17:55:01.211] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[15Dec2024 17:55:01.212] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[15Dec2024 17:55:01.225] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[15Dec2024 17:55:01.649] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[15Dec2024 17:55:07.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:49079] logged in with entity id 37601 at (-1339.5678102589093, 74.0, 199.03747835501832)
+[15Dec2024 17:55:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[15Dec2024 17:55:07.785] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[15Dec2024 17:55:11.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[15Dec2024 17:55:31.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4925ms or 98 ticks behind
+[15Dec2024 17:55:50.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[15Dec2024 18:00:59.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Chest Slayer]
+[15Dec2024 18:02:26.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -15.190487694411985,-2.362530582742835,9.291368145685283
+[15Dec2024 18:02:30.839] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[15Dec2024 18:02:33.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to mexucito]
+[15Dec2024 18:03:26.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! 14.099182773400287,-3.116709565512167,-10.295661727272773
+[15Dec2024 18:03:26.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved too quickly! 14.771612921356393,-4.3434234301114145,9.993047255841702
+[15Dec2024 18:03:31.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[15Dec2024 18:03:37.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! 15.703909991869352,-2.6815499426717793,-9.420535688272935
+[15Dec2024 18:04:14.681] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{mexucito})
+[15Dec2024 18:04:34.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> [x:422, y:104, z:1090, dim:minecraft:overworld]
+[15Dec2024 18:04:39.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> [x:437, y:92, z:1214, dim:minecraft:overworld]
