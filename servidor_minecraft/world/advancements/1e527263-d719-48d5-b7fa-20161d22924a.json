@@ -2338,7 +2338,8 @@
       "mutton": "2024-12-14 23:23:11 +0000",
       "bread": "2024-12-14 22:45:39 +0000",
       "golden_apple": "2024-12-15 00:20:00 +0000",
-      "rotten_flesh": "2024-12-14 23:26:18 +0000"
+      "rotten_flesh": "2024-12-14 23:26:18 +0000",
+      "enchanted_golden_apple": "2024-12-15 18:45:17 +0000"
     },
     "done": false
   },
@@ -3674,6 +3675,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 17:28:28 +0000"
@@ -3692,9 +3705,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
     },
     "done": true
   },
@@ -3713,6 +3738,18 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-15 18:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
     },
     "done": true
   },
@@ -3737,6 +3774,12 @@
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
     },
     "done": true
   },
@@ -3770,9 +3813,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2024-12-15 18:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -3806,9 +3867,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2024-12-15 18:45:38 +0000"
     },
     "done": true
   },
@@ -3818,9 +3891,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
     },
     "done": true
   },
@@ -3833,6 +3924,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2024-12-15 17:06:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
     },
     "done": true
   },
@@ -3860,6 +3957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
@@ -3869,6 +3972,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
     },
     "done": true
   },
@@ -3890,9 +4005,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-15 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -3944,9 +4071,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -3956,9 +4095,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
     },
     "done": true
   },
@@ -3986,9 +4143,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -4016,9 +4185,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2024-12-15 18:06:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-15 18:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -4037,6 +4224,30 @@
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-15 17:27:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
     },
     "done": true
   },
@@ -4064,15 +4275,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2024-12-15 18:27:21 +0000"
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-15 18:45:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-15 18:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
     },
     "done": true
   },
@@ -4088,6 +4323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-15 18:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-15 18:30:29 +0000"
@@ -4097,6 +4338,30 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_arrow": {
+    "criteria": {
+      "has_item": "2024-12-15 18:41:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
     },
     "done": true
   },
@@ -4118,9 +4383,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-15 18:45:38 +0000"
     },
     "done": true
   },
@@ -4136,6 +4425,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-15 18:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-15 18:39:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2024-12-15 17:28:09 +0000"
@@ -4145,6 +4446,18 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-12-15 18:37:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 18:45:38 +0000"
     },
     "done": true
   },
