@@ -1753,15 +1753,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-15 17:47:33 +0000",
       "minecraft:cherry_grove": "2024-12-14 22:38:07 +0000",
       "minecraft:savanna_plateau": "2024-12-14 22:39:58 +0000",
+      "minecraft:beach": "2024-12-15 17:46:27 +0000",
       "minecraft:stony_peaks": "2024-12-14 23:27:50 +0000",
       "minecraft:sparse_jungle": "2024-12-15 17:17:04 +0000",
       "minecraft:river": "2024-12-14 22:43:42 +0000",
+      "minecraft:stony_shore": "2024-12-15 17:42:31 +0000",
       "minecraft:grove": "2024-12-14 23:28:18 +0000",
+      "minecraft:cold_ocean": "2024-12-15 17:46:48 +0000",
       "minecraft:forest": "2024-12-14 22:29:09 +0000",
       "minecraft:jungle": "2024-12-15 17:17:13 +0000",
       "minecraft:frozen_peaks": "2024-12-14 23:30:59 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-15 17:46:20 +0000",
       "minecraft:meadow": "2024-12-14 22:37:22 +0000",
       "minecraft:savanna": "2024-12-14 22:38:45 +0000",
       "minecraft:plains": "2024-12-14 22:36:48 +0000"
@@ -3684,6 +3689,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2024-12-15 17:06:11 +0000"
@@ -3726,9 +3737,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-15 17:28:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
     },
     "done": true
   },
@@ -3738,9 +3767,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 17:48:54 +0000"
     },
     "done": true
   },
@@ -3756,6 +3803,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-15 17:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
@@ -3765,6 +3824,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-15 17:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
     },
     "done": true
   },
@@ -3810,9 +3881,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-15 17:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-15 17:48:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-15 17:42:16 +0000"
     },
     "done": true
   },
@@ -3831,6 +3926,12 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:07:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 17:48:54 +0000"
     },
     "done": true
   },
