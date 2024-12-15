@@ -3724,6 +3724,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 19:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-15 18:37:36 +0000"
@@ -3802,6 +3808,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 19:28:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 19:28:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-15 18:37:15 +0000"
@@ -3859,6 +3877,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 18:35:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-15 19:28:27 +0000"
     },
     "done": true
   },
@@ -3967,6 +3991,12 @@
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2024-12-15 18:27:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 19:28:03 +0000"
     },
     "done": true
   },
@@ -4087,6 +4117,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-15 18:59:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-15 19:28:03 +0000"
     },
     "done": true
   },
@@ -4402,6 +4438,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-15 19:28:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2024-12-15 17:57:35 +0000"
@@ -4489,6 +4531,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2024-12-15 17:08:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 19:28:03 +0000"
     },
     "done": true
   },

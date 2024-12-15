@@ -4927,6 +4927,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2024-12-15 19:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-15 19:11:51 +0000"
