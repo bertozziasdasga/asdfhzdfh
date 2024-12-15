@@ -1808,6 +1808,7 @@
       "minecraft:skeleton": "2024-12-15 00:16:47 +0000",
       "minecraft:spider": "2024-12-14 23:15:20 +0000",
       "minecraft:creeper": "2024-12-14 23:28:32 +0000",
+      "minecraft:enderman": "2024-12-15 18:13:54 +0000",
       "minecraft:zombie": "2024-12-14 22:38:32 +0000"
     },
     "done": false
@@ -3749,6 +3750,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2024-12-15 18:12:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2024-12-15 17:28:52 +0000"
@@ -3818,6 +3825,12 @@
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-15 17:48:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 18:07:02 +0000"
     },
     "done": true
   },
@@ -3953,6 +3966,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 18:06:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-15 17:18:56 +0000"
@@ -3980,6 +3999,12 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-12-15 17:32:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-15 18:13:55 +0000"
     },
     "done": true
   },
