@@ -288,3 +288,10 @@
 [15Dec2024 16:44:59.066] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
 [15Dec2024 16:45:03.753] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5547ms or 110 ticks behind
 [15Dec2024 16:45:26.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8068ms or 161 ticks behind
+[15Dec2024 16:55:16.603] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:swamp took 1710 ms
+[15Dec2024 16:55:32.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to -1768.500000, 96.000000, 173.500000]
+[15Dec2024 16:55:32.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11991ms or 239 ticks behind
+[15Dec2024 16:57:49.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[15Dec2024 16:58:27.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Herc was on a Roll!]
+[15Dec2024 17:00:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[15Dec2024 17:02:16.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
