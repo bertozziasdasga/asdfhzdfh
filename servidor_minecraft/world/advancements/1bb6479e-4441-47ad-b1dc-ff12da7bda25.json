@@ -4498,15 +4498,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-15 05:46:57 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-15 05:52:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "has_amethyst_shard": "2024-12-15 05:46:57 +0000"
+      "has_pointed_dripstone": "2024-12-15 06:03:29 +0000"
     },
     "done": true
   },
