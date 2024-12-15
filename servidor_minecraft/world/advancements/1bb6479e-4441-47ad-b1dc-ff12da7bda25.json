@@ -1759,6 +1759,7 @@
       "minecraft:sparse_jungle": "2024-12-15 00:23:02 +0000",
       "minecraft:river": "2024-12-14 22:48:38 +0000",
       "minecraft:lukewarm_ocean": "2024-12-15 01:19:08 +0000",
+      "minecraft:dripstone_caves": "2024-12-15 04:16:47 +0000",
       "minecraft:grove": "2024-12-14 23:26:55 +0000",
       "minecraft:forest": "2024-12-14 22:17:00 +0000",
       "minecraft:jungle": "2024-12-15 00:35:56 +0000",
@@ -4139,6 +4140,42 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2024-12-15 04:16:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-15 04:16:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-15 04:14:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2024-12-15 04:10:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2024-12-15 04:16:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2024-12-15 04:16:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-15 04:05:26 +0000"
@@ -4148,6 +4185,18 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2024-12-15 04:07:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2024-12-15 04:16:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 04:13:43 +0000"
     },
     "done": true
   },

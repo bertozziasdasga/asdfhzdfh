@@ -304,3 +304,22 @@
 [15Dec2024 04:06:56.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
 [15Dec2024 04:07:43.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1745, l='ServerLevel[world]', x=612.31, y=83.20, z=1636.40] died, message: 'Unemployed was slain by Cyclops'
 [15Dec2024 04:07:51.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[15Dec2024 04:11:51.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[15Dec2024 04:12:10.997] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4401ms or 88 ticks behind
+[15Dec2024 04:13:44.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [Strong or Careful]
+[15Dec2024 04:13:44.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 was doomed to fall by Cyclops
+[15Dec2024 04:13:44.082] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
+[15Dec2024 04:13:47.923] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Dec2024 04:13:47.925] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[15Dec2024 04:13:48.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
+[15Dec2024 04:14:06.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=588, y=70, z=1695}
+[15Dec2024 04:14:07.873] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4877ms or 97 ticks behind
+[15Dec2024 04:14:20.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [My Name is Nobody]
+[15Dec2024 04:15:11.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 burned to death
+[15Dec2024 04:15:11.963] [Server thread/INFO] [tombstone/]: The player Santired123 has successfully been saved
+[15Dec2024 04:15:14.199] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[15Dec2024 04:15:14.200] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[15Dec2024 04:15:18.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[15Dec2024 04:17:05.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved wrongly!
+[15Dec2024 04:19:36.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[15Dec2024 04:21:55.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
