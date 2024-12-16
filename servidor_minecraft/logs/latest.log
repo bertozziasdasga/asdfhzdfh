@@ -466,3 +466,66 @@
 [16Dec2024 17:45:00.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> no
 [16Dec2024 17:45:06.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> no podes picar?
 [16Dec2024 17:45:13.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> si ahora si
+[16Dec2024 17:45:51.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[16Dec2024 17:45:57.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> no hay nd de magia n?
+[16Dec2024 17:46:07.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> hay 2 de magia
+[16Dec2024 17:46:14.316] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8148ms or 162 ticks behind
+[16Dec2024 17:46:15.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> cuales
+[16Dec2024 17:46:20.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> ars
+[16Dec2024 17:46:26.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> corail tomston
+[16Dec2024 17:47:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> una verga el segundo
+[16Dec2024 17:47:11.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=12}
+[16Dec2024 17:47:11.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-14, y=95, z=11}
+[16Dec2024 17:47:11.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-14, y=95, z=11}
+[16Dec2024 17:47:11.731] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=12}
+[16Dec2024 17:47:11.785] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=11}
+[16Dec2024 17:47:12.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=12}
+[16Dec2024 17:47:12.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=12}
+[16Dec2024 17:47:12.801] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=100, z=14} BlockPos{x=-13, y=94, z=12}
+[16Dec2024 17:47:19.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> esta bueno dentro de todo
+[16Dec2024 17:47:30.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Stone Age]
+[16Dec2024 17:47:37.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Getting an Upgrade]
+[16Dec2024 17:47:53.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> vos tenes el phantom no
+[16Dec2024 17:47:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> ?
+[16Dec2024 17:50:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> dante cuidado donde estes ajajaja
+[16Dec2024 17:50:07.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[16Dec2024 17:50:11.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> hay un dragon clase 5 por ahi cerca
+[16Dec2024 17:50:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> a
+[16Dec2024 17:50:26.119] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
+[16Dec2024 17:50:26.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> eu quiero cambiar el origin
+[16Dec2024 17:50:35.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> no hago nd de daño melee ajaajaa
+[16Dec2024 17:50:37.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> mago de mrd
+[16Dec2024 17:50:45.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> ya voy
+[16Dec2024 17:50:48.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6959ms or 139 ticks behind
+[16Dec2024 17:51:02.365] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[16Dec2024 17:51:02.390] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[16Dec2024 17:51:02.392] [Server thread/WARN] [net.minecraft.world.entity.LivingEntity/]: Unable to add mob to team "ravager" (that team probably doesn't exist)
+[16Dec2024 17:51:06.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3930ms or 78 ticks behind
+[16Dec2024 17:51:09.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved wrongly!
+[16Dec2024 17:51:46.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> porq la dificultad de aumento a 54 ajajaa
+[16Dec2024 17:51:53.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> porque sosa esta cerca
+[16Dec2024 17:51:57.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> veni dc gil
+[16Dec2024 17:52:13.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> no puedo hablar
+[16Dec2024 17:52:16.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> estan durmiendo
+[16Dec2024 17:52:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> ahhhhh oka
+[16Dec2024 17:52:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> igual dentro de poco se van y me quedo solo
+[16Dec2024 17:52:31.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Set own game mode to Creative Mode]
+[16Dec2024 17:52:52.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> oaaa
+[16Dec2024 17:52:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Set own game mode to Survival Mode]
+[16Dec2024 17:53:05.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> ahora voy a pensar media hora ma
+[16Dec2024 17:53:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> suerte
+[16Dec2024 17:53:55.097] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:war-god/axe_god_axe_damage] from power ResourceKey[apoli:configured_power / origins-plus-plus:war-god/axe_god]
+[16Dec2024 17:54:11.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> agora sim filha da puta
+[16Dec2024 17:54:11.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> te anda bien el ping?
+[16Dec2024 17:54:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> si
+[16Dec2024 17:54:19.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> tamos
+[16Dec2024 17:54:22.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> chao
+[16Dec2024 17:54:27.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> chau
+[16Dec2024 17:54:31.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> q me das dificultad
+[16Dec2024 17:54:35.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=20, z=87} BlockPos{x=-140, y=18, z=87}
+[16Dec2024 17:54:37.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=19, z=86} BlockPos{x=-142, y=16, z=86}
+[16Dec2024 17:54:37.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=19, z=86} BlockPos{x=-142, y=16, z=86}
+[16Dec2024 17:55:03.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> hay estructuras?
+[16Dec2024 17:55:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> pocas pero si
+[16Dec2024 17:55:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> oka
+[16Dec2024 17:56:16.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
