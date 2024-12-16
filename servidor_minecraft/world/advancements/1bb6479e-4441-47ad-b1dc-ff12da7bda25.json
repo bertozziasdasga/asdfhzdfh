@@ -2282,6 +2282,7 @@
       "minecraft:skeleton": "2024-12-14 22:33:12 +0000",
       "minecraft:spider": "2024-12-14 22:33:18 +0000",
       "minecraft:creeper": "2024-12-14 22:43:58 +0000",
+      "minecraft:zombified_piglin": "2024-12-16 04:36:00 +0000",
       "minecraft:witch": "2024-12-14 22:47:57 +0000",
       "minecraft:wither_skeleton": "2024-12-15 19:06:35 +0000",
       "minecraft:enderman": "2024-12-15 04:07:14 +0000",
@@ -5175,9 +5176,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-16 04:37:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/villager_smithing": {
     "criteria": {
       "has_villager": "2024-12-16 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-16 04:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-16 04:32:51 +0000"
     },
     "done": true
   },
@@ -5199,9 +5218,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-16 04:32:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-16 04:32:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2024-12-16 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-16 04:32:51 +0000"
     },
     "done": true
   },
