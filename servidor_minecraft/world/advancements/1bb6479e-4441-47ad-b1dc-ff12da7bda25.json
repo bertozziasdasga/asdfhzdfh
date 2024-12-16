@@ -5458,6 +5458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2024-12-16 18:45:29 +0000"
@@ -5470,6 +5476,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-16 18:29:12 +0000"
@@ -5479,6 +5497,30 @@
   "travelersbackpack:recipes/misc/dragon": {
     "criteria": {
       "has_dragon_egg": "2024-12-16 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
     },
     "done": true
   },
@@ -5506,6 +5548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2024-12-16 18:21:28 +0000"
@@ -5515,6 +5563,12 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-16 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
     },
     "done": true
   },

@@ -771,3 +771,53 @@
 [16Dec2024 19:07:45.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
 [16Dec2024 19:08:07.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -10.239154709003856,13.192577540117242,-9.57898092905225
 [16Dec2024 19:08:31.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 19:09:29.092] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[16Dec2024 19:13:40.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito was kicked for floating too long!
+[16Dec2024 19:13:40.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito lost connection: Flying is not enabled on this server
+[16Dec2024 19:13:40.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito left the game
+[16Dec2024 19:14:02.855] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[16Dec2024 19:14:03.232] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[16Dec2024 19:14:03.359] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[16Dec2024 19:14:03.389] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16Dec2024 19:14:03.390] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16Dec2024 19:14:03.391] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16Dec2024 19:14:03.581] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16Dec2024 19:14:03.622] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16Dec2024 19:14:03.622] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16Dec2024 19:14:03.623] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16Dec2024 19:14:03.623] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16Dec2024 19:14:03.725] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16Dec2024 19:14:03.728] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16Dec2024 19:14:27.149] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3745164f[id=1e527263-d719-48d5-b7fa-20161d22924a,name=mexucito,properties={textures=[com.mojang.authlib.properties.Property@1804b6af]},legacy=false] (/127.163.243.183:41969) lost connection: Disconnected
+[16Dec2024 19:14:32.232] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[16Dec2024 19:14:32.486] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[16Dec2024 19:14:32.690] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[16Dec2024 19:14:32.691] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16Dec2024 19:14:32.691] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16Dec2024 19:14:32.691] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16Dec2024 19:14:32.691] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16Dec2024 19:14:32.909] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16Dec2024 19:14:32.909] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16Dec2024 19:14:32.909] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16Dec2024 19:14:32.910] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16Dec2024 19:14:32.910] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16Dec2024 19:14:33.022] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16Dec2024 19:14:53.086] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@50ca9acf[id=1e527263-d719-48d5-b7fa-20161d22924a,name=mexucito,properties={textures=[com.mojang.authlib.properties.Property@7ba739a3]},legacy=false] (/127.163.243.183:43721) lost connection: Disconnected
+[16Dec2024 19:14:59.142] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[16Dec2024 19:14:59.336] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[16Dec2024 19:14:59.528] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[16Dec2024 19:14:59.529] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16Dec2024 19:14:59.529] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16Dec2024 19:14:59.529] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16Dec2024 19:14:59.724] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16Dec2024 19:14:59.724] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16Dec2024 19:14:59.725] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16Dec2024 19:14:59.910] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16Dec2024 19:14:59.911] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16Dec2024 19:14:59.954] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16Dec2024 19:14:59.959] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16Dec2024 19:15:09.181] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 19:15:18.783] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ac97ce4[id=1e527263-d719-48d5-b7fa-20161d22924a,name=mexucito,properties={textures=[com.mojang.authlib.properties.Property@4409c00f]},legacy=false] (/127.163.243.183:57349) lost connection: Disconnected
+[16Dec2024 19:15:37.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2284ms or 45 ticks behind
+[16Dec2024 19:16:50.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[16Dec2024 19:17:34.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
