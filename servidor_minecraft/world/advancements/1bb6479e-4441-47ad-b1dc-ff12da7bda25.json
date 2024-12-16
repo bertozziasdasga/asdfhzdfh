@@ -2286,6 +2286,7 @@
       "minecraft:ghast": "2024-12-16 19:18:50 +0000",
       "minecraft:spider": "2024-12-14 22:33:18 +0000",
       "minecraft:creeper": "2024-12-14 22:43:58 +0000",
+      "minecraft:slime": "2024-12-16 23:25:54 +0000",
       "minecraft:zombified_piglin": "2024-12-16 04:36:00 +0000",
       "minecraft:witch": "2024-12-14 22:47:57 +0000",
       "minecraft:wither_skeleton": "2024-12-15 19:06:35 +0000",
@@ -5609,9 +5610,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 23:26:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 23:26:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-16 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-16 23:26:02 +0000"
     },
     "done": true
   },
