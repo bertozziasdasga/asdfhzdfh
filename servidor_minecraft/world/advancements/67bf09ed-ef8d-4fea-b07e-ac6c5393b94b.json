@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-16 18:04:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_overgrowth": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -775,6 +781,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-16 18:06:41 +0000",
       "minecraft:zombie": "2024-12-16 18:03:14 +0000"
     },
     "done": false
@@ -866,6 +873,12 @@
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2024-12-16 17:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-16 18:06:42 +0000"
     },
     "done": true
   },
@@ -1721,6 +1734,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/wolf": {
+    "criteria": {
+      "has_bone": "2024-12-16 18:06:42 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -2049,6 +2068,7 @@
     "criteria": {
       "minecraft:river": "2024-12-16 17:56:22 +0000",
       "minecraft:stony_shore": "2024-12-16 17:54:03 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 18:06:54 +0000",
       "minecraft:forest": "2024-12-16 17:28:15 +0000",
       "minecraft:ocean": "2024-12-16 17:56:30 +0000",
       "minecraft:meadow": "2024-12-16 18:01:57 +0000",
@@ -2184,6 +2204,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-16 18:05:38 +0000",
       "cooked_mutton": "2024-12-16 18:00:12 +0000",
       "beef": "2024-12-16 17:57:43 +0000",
       "porkchop": "2024-12-16 17:49:41 +0000"
