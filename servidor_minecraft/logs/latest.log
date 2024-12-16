@@ -356,3 +356,10 @@
 [16Dec2024 04:43:13.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to mexucito]
 [16Dec2024 04:43:52.006] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Santired123
 [16Dec2024 04:43:55.709] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Santired123})
+[16Dec2024 04:50:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito was shot by Santired123
+[16Dec2024 04:50:22.428] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for mexucito with unique ID travelersbackpack.diamond_16.12.2024-04.50.22.dat
+[16Dec2024 04:50:22.448] [Server thread/INFO] [tombstone/]: The player mexucito has successfully been saved
+[16Dec2024 04:50:23.909] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Dec2024 04:50:23.910] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[16Dec2024 04:52:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[16Dec2024 04:52:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]

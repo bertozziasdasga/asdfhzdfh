@@ -5170,6 +5170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-16 04:50:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-16 03:58:11 +0000"
@@ -5185,6 +5191,12 @@
   "travelersbackpack:recipes/misc/villager_smithing": {
     "criteria": {
       "has_villager": "2024-12-16 04:00:02 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-12-16 04:51:30 +0000"
     },
     "done": true
   },
@@ -5206,6 +5218,24 @@
     },
     "done": true
   },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 04:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-16 04:50:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze_smithing": {
+    "criteria": {
+      "has_blaze": "2024-12-16 04:51:42 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/squid": {
     "criteria": {
       "has_ink_sac": "2024-12-16 04:00:49 +0000"
@@ -5215,6 +5245,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2024-12-16 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-16 04:50:41 +0000"
     },
     "done": true
   },

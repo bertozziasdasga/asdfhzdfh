@@ -2340,7 +2340,9 @@
       "golden_apple": "2024-12-15 00:20:00 +0000",
       "rotten_flesh": "2024-12-14 23:26:18 +0000",
       "suspicious_stew": "2024-12-16 04:30:38 +0000",
-      "enchanted_golden_apple": "2024-12-15 18:45:17 +0000"
+      "cooked_chicken": "2024-12-16 04:50:08 +0000",
+      "enchanted_golden_apple": "2024-12-15 18:45:17 +0000",
+      "rabbit_stew": "2024-12-16 04:47:08 +0000"
     },
     "done": false
   },
@@ -4637,9 +4639,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 04:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-16 04:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-16 04:43:11 +0000"
     },
     "done": true
   },
