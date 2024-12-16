@@ -1755,6 +1755,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-15 17:47:33 +0000",
       "minecraft:cherry_grove": "2024-12-14 22:38:07 +0000",
+      "minecraft:birch_forest": "2024-12-16 18:01:02 +0000",
       "minecraft:savanna_plateau": "2024-12-14 22:39:58 +0000",
       "minecraft:beach": "2024-12-15 17:46:27 +0000",
       "minecraft:stony_peaks": "2024-12-14 23:27:50 +0000",
@@ -4714,6 +4715,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-16 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-16 17:56:24 +0000"
     },
     "done": true
   },

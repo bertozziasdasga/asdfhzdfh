@@ -529,3 +529,67 @@
 [16Dec2024 17:55:11.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> pocas pero si
 [16Dec2024 17:55:31.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> oka
 [16Dec2024 17:56:16.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[16Dec2024 17:56:55.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23774ms or 475 ticks behind
+[16Dec2024 17:57:08.924] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 17:57:19.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9030ms or 180 ticks behind
+[16Dec2024 17:57:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> no hay zoom?
+[16Dec2024 17:57:46.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Santired123> si no tenes optifine no
+[16Dec2024 17:57:51.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[16Dec2024 17:57:52.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mexucito> no esta el mod pero te lo podes poner
+[16Dec2024 17:58:09.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[16Dec2024 17:58:16.763] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 17:58:20.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 was slain by Ghost
+[16Dec2024 17:58:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Your First Grave]
+[16Dec2024 17:58:20.850] [Server thread/INFO] [tombstone/]: The player xum4 has successfully been saved
+[16Dec2024 17:58:22.331] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[16Dec2024 17:58:22.332] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[16Dec2024 17:58:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [The Most Useful Key]
+[16Dec2024 17:58:23.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <xum4> a
+[16Dec2024 17:58:27.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Knowledge of Death]
+[16Dec2024 17:58:27.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has reached the goal [A Fast Comeback]
+[16Dec2024 17:58:59.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Knowledge raises the soul]
+[16Dec2024 18:00:08.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Who You Gonna Call?]
+[16Dec2024 18:00:26.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -16.524124554889482,-4.751609077657918,6.236578850883802
+[16Dec2024 18:00:27.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[16Dec2024 18:00:43.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -15.502791377995678,-2.0745598132358083,7.611105967064077
+[16Dec2024 18:01:06.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24645ms or 492 ticks behind
+[16Dec2024 18:01:21.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved wrongly!
+[16Dec2024 18:01:21.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -17.12756578591916,-3.9030571565704975,-0.28061631798686903
+[16Dec2024 18:01:24.744] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2825ms or 56 ticks behind
+[16Dec2024 18:03:14.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [Monster Hunter]
+[16Dec2024 18:03:16.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16Dec2024 18:03:39.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16Dec2024 18:03:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Tie me to the Mast]
+[16Dec2024 18:03:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xum4 has made the advancement [A Strange Grave Dust]
+[16Dec2024 18:03:58.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3432ms or 68 ticks behind
+[16Dec2024 18:04:16.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[16Dec2024 18:04:35.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3994ms or 79 ticks behind
+[16Dec2024 18:04:52.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[16Dec2024 18:05:10.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16Dec2024 18:05:11.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Disconnected
+[16Dec2024 18:05:11.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[16Dec2024 18:05:24.613] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[16Dec2024 18:05:24.910] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[16Dec2024 18:05:25.066] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[16Dec2024 18:05:25.066] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16Dec2024 18:05:25.101] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16Dec2024 18:05:25.272] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16Dec2024 18:05:25.273] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16Dec2024 18:05:25.275] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16Dec2024 18:05:25.275] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16Dec2024 18:05:25.517] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16Dec2024 18:05:25.518] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16Dec2024 18:05:25.518] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16Dec2024 18:05:25.519] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16Dec2024 18:05:29.540] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[16Dec2024 18:05:34.556] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[16Dec2024 18:05:34.598] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[16Dec2024 18:05:35.003] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[16Dec2024 18:05:37.178] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[16Dec2024 18:05:39.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:44797] logged in with entity id 22406 at (-685.3688080427859, 63.0, 1331.5249646657737)
+[16Dec2024 18:05:39.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[16Dec2024 18:05:39.985] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[16Dec2024 18:05:42.810] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[16Dec2024 18:06:01.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4103ms or 82 ticks behind
+[16Dec2024 18:06:21.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4671ms or 93 ticks behind
+[16Dec2024 18:06:42.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6262ms or 125 ticks behind

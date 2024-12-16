@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2024-12-16 17:55:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -80,6 +86,12 @@
   "ars_nouveau:recipes/misc/spike_to_dye": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-16 17:53:59 +0000"
     },
     "done": true
   },
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-16 17:59:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -212,6 +230,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-16 17:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-16 18:03:37 +0000"
     },
     "done": true
   },
@@ -245,6 +269,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-16 18:03:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2024-12-16 17:58:22 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -254,6 +290,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-16 17:54:16 +0000"
     },
     "done": true
   },
@@ -371,6 +413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-16 17:53:59 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -437,6 +485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -452,6 +506,12 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 17:58:59 +0000"
     },
     "done": true
   },
@@ -569,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -659,6 +725,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-16 17:59:24 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sanctuary": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -683,11 +761,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_button": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-16 18:03:14 +0000"
+    },
+    "done": false
   },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
@@ -698,6 +788,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2024-12-16 17:45:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 17:54:25 +0000"
     },
     "done": true
   },
@@ -761,6 +857,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2024-12-16 17:59:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -821,6 +929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/annotated_codex": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -836,6 +950,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 17:53:59 +0000"
     },
     "done": true
   },
@@ -875,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/combat/bandages": {
     "criteria": {
       "cobblestone": "2024-12-16 17:47:30 +0000"
@@ -884,6 +1010,12 @@
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-16 17:54:16 +0000"
     },
     "done": true
   },
@@ -923,9 +1055,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-16 17:49:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 17:56:10 +0000"
     },
     "done": true
   },
@@ -947,9 +1091,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 17:58:27 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_grass_block": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
     },
     "done": true
   },
@@ -989,6 +1163,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-16 17:55:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -1016,6 +1196,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-16 17:54:16 +0000"
     },
     "done": true
   },
@@ -1082,6 +1268,12 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
     },
     "done": true
   },
@@ -1157,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -1211,6 +1409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 17:54:25 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -1220,6 +1424,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-16 17:56:10 +0000"
     },
     "done": true
   },
@@ -1253,6 +1463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-16 18:03:37 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blank_thread": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -1280,6 +1496,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-16 17:53:59 +0000"
     },
     "done": true
   },
@@ -1322,6 +1544,24 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sheep": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 17:53:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 17:58:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 17:53:59 +0000"
     },
     "done": true
   },
@@ -1571,6 +1811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-16 17:53:59 +0000"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/misc/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
@@ -1661,6 +1907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-16 17:48:51 +0000"
@@ -1685,9 +1937,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2024-12-16 17:59:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-16 18:03:37 +0000"
     },
     "done": true
   },
@@ -1706,6 +1970,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-16 17:45:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 17:54:25 +0000"
     },
     "done": true
   },
@@ -1733,6 +2003,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-16 17:58:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-16 17:49:38 +0000"
@@ -1742,6 +2018,12 @@
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-16 18:03:14 +0000"
     },
     "done": true
   },
@@ -1757,9 +2039,19 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-16 18:03:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2024-12-16 17:56:22 +0000",
+      "minecraft:stony_shore": "2024-12-16 17:54:03 +0000",
       "minecraft:forest": "2024-12-16 17:28:15 +0000",
+      "minecraft:ocean": "2024-12-16 17:56:30 +0000",
+      "minecraft:meadow": "2024-12-16 18:01:57 +0000",
       "minecraft:plains": "2024-12-16 17:44:12 +0000"
     },
     "done": false
@@ -1767,6 +2059,12 @@
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-16 17:54:25 +0000"
     },
     "done": true
   },
@@ -1785,6 +2083,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-16 17:47:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-16 18:00:08 +0000"
     },
     "done": true
   },
@@ -1848,6 +2152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-16 17:53:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-16 17:45:35 +0000"
@@ -1874,6 +2184,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2024-12-16 18:00:12 +0000",
+      "beef": "2024-12-16 17:57:43 +0000",
       "porkchop": "2024-12-16 17:49:41 +0000"
     },
     "done": false
@@ -1911,6 +2223,12 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-16 17:58:22 +0000"
     },
     "done": true
   },
@@ -2076,6 +2394,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
+    },
+    "done": true
+  },
   "scalinghealth:recipes/misc/power_crystal": {
     "criteria": {
       "cobblestone": "2024-12-16 17:47:30 +0000"
@@ -2085,6 +2409,12 @@
   "ars_elemental:recipes/building_blocks/stripped_yellow_archwood": {
     "criteria": {
       "has_journal": "2024-12-16 17:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-16 17:56:15 +0000"
     },
     "done": true
   },
