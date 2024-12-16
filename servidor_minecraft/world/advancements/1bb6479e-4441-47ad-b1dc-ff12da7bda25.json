@@ -5167,9 +5167,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-16 03:58:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/villager_smithing": {
+    "criteria": {
+      "has_villager": "2024-12-16 04:00:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-16 03:43:01 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2024-12-16 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-16 04:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-16 03:58:11 +0000"
     },
     "done": true
   },

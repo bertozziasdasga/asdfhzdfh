@@ -314,3 +314,30 @@
 [16Dec2024 03:44:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
 [16Dec2024 03:44:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
 [16Dec2024 03:45:06.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[16Dec2024 03:58:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[16Dec2024 03:58:22.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[16Dec2024 04:00:34.314] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[16Dec2024 04:00:34.596] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[16Dec2024 04:00:34.736] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[16Dec2024 04:00:34.756] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[16Dec2024 04:00:34.756] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[16Dec2024 04:00:34.757] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[16Dec2024 04:00:34.758] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[16Dec2024 04:00:34.758] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[16Dec2024 04:00:34.915] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[16Dec2024 04:00:34.918] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[16Dec2024 04:00:34.920] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[16Dec2024 04:00:34.924] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[16Dec2024 04:00:35.020] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[16Dec2024 04:00:39.567] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[16Dec2024 04:00:40.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[16Dec2024 04:00:42.031] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[16Dec2024 04:00:42.035] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[16Dec2024 04:00:42.050] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[16Dec2024 04:00:43.055] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[16Dec2024 04:00:46.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mexucito[/127.163.243.183:52293] logged in with entity id 3464 at (357.36068581191034, 97.0, 946.2682883437097)
+[16Dec2024 04:00:47.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito joined the game
+[16Dec2024 04:00:47.435] [Server thread/INFO] [Jade/]: Syncing config to mexucito (1e527263-d719-48d5-b7fa-20161d22924a)
+[16Dec2024 04:00:56.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Spectator Mode]
+[16Dec2024 04:01:15.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[16Dec2024 04:03:19.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
