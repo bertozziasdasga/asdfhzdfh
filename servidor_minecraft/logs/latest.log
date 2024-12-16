@@ -363,3 +363,12 @@
 [16Dec2024 04:50:23.910] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [16Dec2024 04:52:35.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
 [16Dec2024 04:52:47.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[16Dec2024 05:02:53.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Teleported mexucito to Santired123]
+[16Dec2024 05:03:04.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Suit Up]
+[16Dec2024 05:03:41.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Another Brick in the Wall]
+[16Dec2024 05:04:39.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[16Dec2024 05:05:05.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[16Dec2024 05:05:56.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Dragon Egg]
+[16Dec2024 05:06:08.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Mother of Dragons]
+[16Dec2024 05:06:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Mother of Dragons]
+[16Dec2024 05:06:35.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
