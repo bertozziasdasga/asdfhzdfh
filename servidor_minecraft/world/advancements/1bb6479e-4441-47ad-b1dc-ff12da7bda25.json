@@ -2283,6 +2283,7 @@
     "criteria": {
       "minecraft:blaze": "2024-12-15 19:06:48 +0000",
       "minecraft:skeleton": "2024-12-14 22:33:12 +0000",
+      "minecraft:ghast": "2024-12-16 19:18:50 +0000",
       "minecraft:spider": "2024-12-14 22:33:18 +0000",
       "minecraft:creeper": "2024-12-14 22:43:58 +0000",
       "minecraft:zombified_piglin": "2024-12-16 04:36:00 +0000",
@@ -5446,9 +5447,63 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-16 18:21:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-16 18:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-16 18:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-16 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-16 18:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 18:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-12-16 18:29:12 +0000"
     },
     "done": true
   },
@@ -5458,21 +5513,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2024-12-16 19:11:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2024-12-16 18:45:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+  "travelersbackpack:recipes/misc/dragon": {
     "criteria": {
-      "has_end_stone": "2024-12-16 18:29:12 +0000"
+      "has_dragon_egg": "2024-12-16 18:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-16 18:50:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-16 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-16 18:56:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-16 19:11:21 +0000"
     },
     "done": true
   },
@@ -5485,18 +5558,6 @@
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2024-12-16 19:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2024-12-16 18:29:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/dragon": {
-    "criteria": {
-      "has_dragon_egg": "2024-12-16 18:45:29 +0000"
     },
     "done": true
   },
@@ -5524,45 +5585,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2024-12-16 18:24:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-12-16 18:52:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-12-16 18:50:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-12-16 18:29:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-16 19:11:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_stronghold": "2024-12-16 18:21:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-12-16 18:29:05 +0000"
     },
     "done": true
   },
@@ -5572,27 +5597,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+  "travelersbackpack:recipes/misc/ghast": {
     "criteria": {
-      "has_end_stone": "2024-12-16 18:29:12 +0000"
+      "has_ghast_tear": "2024-12-16 19:22:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+  "travelersbackpack:recipes/misc/wither": {
     "criteria": {
-      "has_end_stone": "2024-12-16 18:29:12 +0000"
+      "has_wither_skeleton_skull": "2024-12-16 23:21:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_shulker_shell": "2024-12-16 18:56:44 +0000"
+      "wither_skull": "2024-12-16 23:21:21 +0000"
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "entered_end": "2024-12-16 18:29:05 +0000"
+      "has_wither_skeleton_skull": "2024-12-16 23:21:21 +0000"
     },
     "done": true
   },
