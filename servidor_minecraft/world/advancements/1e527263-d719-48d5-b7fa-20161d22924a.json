@@ -2339,6 +2339,7 @@
       "bread": "2024-12-14 22:45:39 +0000",
       "golden_apple": "2024-12-15 00:20:00 +0000",
       "rotten_flesh": "2024-12-14 23:26:18 +0000",
+      "suspicious_stew": "2024-12-16 04:30:38 +0000",
       "enchanted_golden_apple": "2024-12-15 18:45:17 +0000"
     },
     "done": false
@@ -4645,6 +4646,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-16 04:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-16 04:30:38 +0000"
     },
     "done": true
   },
