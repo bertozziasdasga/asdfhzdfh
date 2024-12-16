@@ -747,3 +747,27 @@
 [16Dec2024 18:45:29.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [The Next Generation]
 [16Dec2024 18:48:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Remote Getaway]
 [16Dec2024 18:48:26.280] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[16Dec2024 18:49:08.155] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 18:49:11.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4328ms or 86 ticks behind
+[16Dec2024 18:50:29.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Remote Getaway]
+[16Dec2024 18:50:48.046] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[16Dec2024 18:52:32.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [The City at the End of the Game]
+[16Dec2024 18:52:54.504] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 18:55:12.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16Dec2024 18:55:33.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6257ms or 125 ticks behind
+[16Dec2024 18:56:39.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -15.118254463627295,-1.8135116698876175,-9.272261506536779
+[16Dec2024 18:56:53.933] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 19:02:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Spooky Scary Skeleton]
+[16Dec2024 19:04:38.227] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[16Dec2024 19:04:38.415] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
+[16Dec2024 19:04:38.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -6.211846886550006,1.1563045152156874,-7.916207472420751
+[16Dec2024 19:04:56.988] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3769ms or 75 ticks behind
+[16Dec2024 19:05:14.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[16Dec2024 19:06:51.233] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16Dec2024 19:07:09.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3227ms or 64 ticks behind
+[16Dec2024 19:07:18.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -5.663750921800215,-3.3540930068857335,16.37161500365471
+[16Dec2024 19:07:24.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! 5.3687557110526996,-2.5774692897005593,16.43169116509125
+[16Dec2024 19:07:28.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3626ms or 72 ticks behind
+[16Dec2024 19:07:45.542] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[16Dec2024 19:08:07.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! -10.239154709003856,13.192577540117242,-9.57898092905225
+[16Dec2024 19:08:31.078] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/15235, l='ServerLevel[world]', x=342.50, y=95.00, z=950.50, removed=DISCARDED]
