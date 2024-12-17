@@ -3,3 +3,31 @@
 [17Dec2024 00:04:56.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2652ms or 53 ticks behind
 [17Dec2024 00:05:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Knowledge raises the soul]
 [17Dec2024 00:05:41.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 moved too quickly! 6.559291709006175,8.05537764012292,22.08564779854015
+[17Dec2024 00:11:21.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [The City at the End of the Game]
+[17Dec2024 00:12:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [Sky's the Limit]
+[17Dec2024 00:16:20.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved wrongly!
+[17Dec2024 00:17:42.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mexucito: Teleported mexucito to Santired123]
+[17Dec2024 00:17:58.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito lost connection: Timed out
+[17Dec2024 00:17:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito left the game
+[17Dec2024 00:17:58.731] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 00:18:25.997] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mexucito is 1e527263-d719-48d5-b7fa-20161d22924a
+[17Dec2024 00:18:26.325] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Dec2024 00:18:26.469] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Dec2024 00:18:26.475] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Dec2024 00:18:26.486] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Dec2024 00:18:26.529] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Dec2024 00:18:26.673] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Dec2024 00:18:26.674] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Dec2024 00:18:26.713] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Dec2024 00:18:26.714] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Dec2024 00:18:26.861] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Dec2024 00:18:26.862] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Dec2024 00:18:26.863] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Dec2024 00:18:31.344] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Dec2024 00:18:32.655] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Dec2024 00:18:32.678] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Dec2024 00:18:32.722] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17Dec2024 00:18:33.322] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[17Dec2024 00:18:36.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mexucito[/127.163.243.183:44317] logged in with entity id 17879 at (356.49166993633025, 100.0, 936.2319615557341)
+[17Dec2024 00:18:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito joined the game
+[17Dec2024 00:18:36.790] [Server thread/INFO] [Jade/]: Syncing config to mexucito (1e527263-d719-48d5-b7fa-20161d22924a)
