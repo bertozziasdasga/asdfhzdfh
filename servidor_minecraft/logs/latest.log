@@ -44,3 +44,57 @@
 [17Dec2024 00:25:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [You Need a Mint]
 [17Dec2024 00:28:10.897] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Santired123})
 [17Dec2024 00:28:39.146] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[17Dec2024 00:30:56.188] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[17Dec2024 00:31:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has made the advancement [Free the End]
+[17Dec2024 00:35:29.957] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[17Dec2024 00:35:36.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Teleported Santired123 to mexucito]
+[17Dec2024 00:36:00.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Timed out
+[17Dec2024 00:36:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[17Dec2024 00:36:05.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito lost connection: Disconnected
+[17Dec2024 00:36:05.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito left the game
+[17Dec2024 00:36:16.377] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[17Dec2024 00:36:16.606] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Dec2024 00:36:16.805] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Dec2024 00:36:16.816] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Dec2024 00:36:16.816] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Dec2024 00:36:17.007] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Dec2024 00:36:17.008] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Dec2024 00:36:17.008] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Dec2024 00:36:17.008] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Dec2024 00:36:17.205] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Dec2024 00:36:17.245] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Dec2024 00:36:17.246] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Dec2024 00:36:17.247] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Dec2024 00:36:22.419] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Dec2024 00:36:28.695] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Dec2024 00:36:28.696] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Dec2024 00:36:29.665] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17Dec2024 00:36:35.239] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[17Dec2024 00:36:40.108] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:60465] logged in with entity id 21269 at (341.7756752643671, 96.0, 942.5333660426566)
+[17Dec2024 00:36:40.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[17Dec2024 00:36:40.408] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[17Dec2024 00:36:42.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[17Dec2024 00:37:10.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Timed out
+[17Dec2024 00:37:10.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[17Dec2024 00:37:32.723] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[17Dec2024 00:37:32.954] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Dec2024 00:37:33.163] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Dec2024 00:37:33.164] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Dec2024 00:37:33.165] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Dec2024 00:37:33.395] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Dec2024 00:37:33.395] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Dec2024 00:37:33.395] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Dec2024 00:37:33.396] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Dec2024 00:37:33.581] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Dec2024 00:37:33.621] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Dec2024 00:37:33.622] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Dec2024 00:37:33.622] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Dec2024 00:37:40.194] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Dec2024 00:37:45.312] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Dec2024 00:37:45.353] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Dec2024 00:37:45.802] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17Dec2024 00:37:48.662] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[17Dec2024 00:37:50.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:39657] logged in with entity id 21584 at (342.8654138618572, 95.0, 940.2756008596231)
+[17Dec2024 00:37:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[17Dec2024 00:37:51.230] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[17Dec2024 00:37:53.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind

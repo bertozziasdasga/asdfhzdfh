@@ -1817,6 +1817,7 @@
       "minecraft:spider": "2024-12-14 23:15:20 +0000",
       "minecraft:creeper": "2024-12-14 23:28:32 +0000",
       "minecraft:phantom": "2024-12-16 23:23:28 +0000",
+      "minecraft:ender_dragon": "2024-12-17 00:31:01 +0000",
       "minecraft:shulker": "2024-12-17 00:11:30 +0000",
       "minecraft:enderman": "2024-12-15 18:13:54 +0000",
       "minecraft:silverfish": "2024-12-16 18:22:29 +0000",
@@ -5101,6 +5102,18 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-17 00:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2024-12-17 00:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2024-12-17 00:25:53 +0000"
     },
     "done": true
   },

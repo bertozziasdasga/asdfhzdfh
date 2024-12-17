@@ -5604,13 +5604,19 @@
     },
     "done": true
   },
-  "minecraft:end/dragon_breath": {
+  "travelersbackpack:recipes/misc/wither": {
     "criteria": {
-      "dragon_breath": "2024-12-17 00:24:18 +0000"
+      "has_wither_skeleton_skull": "2024-12-16 23:21:21 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/wither": {
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-16 23:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2024-12-16 23:21:21 +0000"
     },
@@ -5628,15 +5634,9 @@
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "wither_skull": "2024-12-16 23:21:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/respawn_dragon": {
-    "criteria": {
-      "summoned_dragon": "2024-12-17 00:24:08 +0000"
+      "has_slime_ball": "2024-12-16 23:26:02 +0000"
     },
     "done": true
   },
@@ -5646,15 +5646,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:end/respawn_dragon": {
     "criteria": {
-      "has_slime_ball": "2024-12-16 23:26:02 +0000"
+      "summoned_dragon": "2024-12-17 00:24:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:end/dragon_breath": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-12-16 23:21:21 +0000"
+      "dragon_breath": "2024-12-17 00:24:18 +0000"
     },
     "done": true
   },
