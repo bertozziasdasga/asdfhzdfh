@@ -166,3 +166,19 @@
 [17Dec2024 00:56:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Dragon Growth Hormone]
 [17Dec2024 00:56:45.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has made the advancement [Dragon Commander]
 [17Dec2024 00:57:39.582] [Server thread/INFO] [Scaling Health/]: Blight Creeper was killed by Santired123
+[17Dec2024 01:01:36.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set the weather to clear]
+[17Dec2024 01:02:16.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Disconnected
+[17Dec2024 01:02:16.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[17Dec2024 01:02:22.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Dec2024 01:02:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Dec2024 01:02:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Dec2024 01:02:22.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Dec2024 01:02:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Dec2024 01:02:23.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Dec2024 01:02:23.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Dec2024 01:02:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Dec2024 01:02:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Dec2024 01:02:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Dec2024 01:02:23.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Dec2024 01:02:23.271] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@4a3212e
+[17Dec2024 01:02:23.291] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
