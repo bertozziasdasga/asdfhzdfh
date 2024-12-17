@@ -98,3 +98,64 @@
 [17Dec2024 00:37:51.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
 [17Dec2024 00:37:51.230] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
 [17Dec2024 00:37:53.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[17Dec2024 00:42:12.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:42:30.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:42:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:43:04.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:43:38.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:43:51.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Summoned new Lightning Dragon]
+[17Dec2024 00:44:32.684] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Santired123})
+[17Dec2024 00:44:32.855] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Santired123})
+[17Dec2024 00:44:53.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[17Dec2024 00:46:10.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[17Dec2024 00:46:14.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 was kicked for floating too long!
+[17Dec2024 00:46:14.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Flying is not enabled on this server
+[17Dec2024 00:46:14.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[17Dec2024 00:46:29.147] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[17Dec2024 00:46:29.350] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Dec2024 00:46:29.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Dec2024 00:46:29.666] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Dec2024 00:46:29.666] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Dec2024 00:46:29.794] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Dec2024 00:46:29.794] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Dec2024 00:46:29.795] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Dec2024 00:46:29.795] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Dec2024 00:46:29.795] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Dec2024 00:46:29.983] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Dec2024 00:46:29.984] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Dec2024 00:46:29.990] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Dec2024 00:46:36.672] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Dec2024 00:46:44.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Dec2024 00:46:44.119] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Dec2024 00:46:44.689] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17Dec2024 00:46:53.540] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[17Dec2024 00:46:57.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:49101] logged in with entity id 23808 at (353.48489901534185, 97.41218793220925, 1005.6700192423708)
+[17Dec2024 00:46:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[17Dec2024 00:46:57.980] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[17Dec2024 00:47:27.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Santired123 lost connection: Timed out
+[17Dec2024 00:47:27.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 left the game
+[17Dec2024 00:47:27.884] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 00:47:53.191] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Santired123 is 1bb6479e-4441-47ad-b1dc-ff12da7bda25
+[17Dec2024 00:47:53.391] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[17Dec2024 00:47:53.563] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[17Dec2024 00:47:53.565] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[17Dec2024 00:47:53.566] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[17Dec2024 00:47:53.737] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[17Dec2024 00:47:53.739] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[17Dec2024 00:47:53.739] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[17Dec2024 00:47:53.910] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[17Dec2024 00:47:53.954] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[17Dec2024 00:47:53.954] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[17Dec2024 00:47:53.954] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[17Dec2024 00:47:54.029] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[17Dec2024 00:47:59.570] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[17Dec2024 00:48:10.245] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[17Dec2024 00:48:10.245] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[17Dec2024 00:48:10.822] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[17Dec2024 00:48:14.788] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[17Dec2024 00:48:17.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Santired123[/127.163.243.183:36621] logged in with entity id 24183 at (353.48489901534185, 97.41218793220925, 1005.6700192423708)
+[17Dec2024 00:48:17.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 joined the game
+[17Dec2024 00:48:17.936] [Server thread/INFO] [Jade/]: Syncing config to Santired123 (1bb6479e-4441-47ad-b1dc-ff12da7bda25)
+[17Dec2024 00:49:20.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
+[17Dec2024 00:49:36.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Survival Mode]
+[17Dec2024 00:49:47.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Santired123: Set own game mode to Creative Mode]
