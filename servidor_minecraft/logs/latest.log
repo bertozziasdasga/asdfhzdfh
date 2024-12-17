@@ -31,3 +31,16 @@
 [17Dec2024 00:18:36.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mexucito[/127.163.243.183:44317] logged in with entity id 17879 at (356.49166993633025, 100.0, 936.2319615557341)
 [17Dec2024 00:18:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito joined the game
 [17Dec2024 00:18:36.790] [Server thread/INFO] [Jade/]: Syncing config to mexucito (1e527263-d719-48d5-b7fa-20161d22924a)
+[17Dec2024 00:19:09.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [Sky's the Limit]
+[17Dec2024 00:20:40.612] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by Santired123
+[17Dec2024 00:21:00.581] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{mexucito})
+[17Dec2024 00:22:17.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[17Dec2024 00:22:29.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mexucito moved too quickly! 1428.8546789548302,16.26590000152588,-1849.5225041421772
+[17Dec2024 00:24:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [The End... Again...]
+[17Dec2024 00:24:08.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [The End... Again...]
+[17Dec2024 00:24:18.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Santired123 has reached the goal [You Need a Mint]
+[17Dec2024 00:24:38.421] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{mexucito})
+[17Dec2024 00:25:18.782] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
+[17Dec2024 00:25:53.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mexucito has reached the goal [You Need a Mint]
+[17Dec2024 00:28:10.897] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Santired123})
+[17Dec2024 00:28:39.146] [Server thread/INFO] [Scaling Health/]: Blight Enderman was killed by Santired123
